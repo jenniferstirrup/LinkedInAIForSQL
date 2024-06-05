@@ -1,0 +1,17 @@
+ProductID,ProductName,Size,Variety,Price,Status
+MWBLU20,Mineral Water,20,Blueberry,1.79,ACTIVE
+MWBLU32,Mineral Water,32,Blueberry,3.69,ACTIVE
+MWLEM20,Mineral Water,20,Lemon-Lime,1.79,ACTIVE
+MWLEM32,Mineral Water,32,Lemon-Lime,3.69,ACTIVE
+MWORG20,Mineral Water,20,Orange,1.79,ACTIVE
+MWORG32,Mineral Water,32,Orange,3.69,ACTIVE
+MWPEA20,Mineral Water,20,Peach,1.79,ACTIVE
+MWPEA32,Mineral Water,32,Peach,3.69,ACTIVE
+MWRAS20,Mineral Water,20,Raspberry,1.79,ACTIVE
+MWRAS32,Mineral Water,32,Raspberry,3.69,ACTIVE
+MWSTR20,Mineral Water,20,Strawberry,1.79,ACTIVE
+MWSTR32,Mineral Water,32,Strawberry,3.69,ACTIVE
+MWCRA20,Mineral Water,20,Cranberry,1.79,DISCONTINUED
+MWCRA32,Mineral Water,32,Cranberry,3.69,DISCONTINUED
+MWMAN20,Mineral Water,20,Mango,1.79,DISCONTINUED
+MWMAN32,Mineral Water,32,Mango,3.69,DISCONTINUED
